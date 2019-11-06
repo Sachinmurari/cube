@@ -1,0 +1,12 @@
+*.idea
+*.tmp
+*.cfg
+*.pyc
+*.log.*
+*.log
+*.swp
+*docs
+*tmp/
+*credentials
+*settings-*.py
+*first_project
